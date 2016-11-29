@@ -8,7 +8,6 @@ body {
 a:link {
     color: #000000;
 	text-decoration: none;
-	animation: ease-in;
 	 
 }
 a:visited {
@@ -28,36 +27,36 @@ a:hover, a:active, a:focus {
 .header {
 	background: #0026FF;
 	text-align: center;
-	margin: 0px;
+	margin: 5px;
 	padding: 5;
 	float: left;
-	width: 100%;
+	width: 99%;
 	height: 80px;
 	
 }
 .nav {
 	background: #0DB0FF;
-	margin: 0px;
+	margin: 5px;
 	padding: 5;
 	float: left;
-	width: 100%;
+	width: 99%;
 	height: 60px;
 	text-align: center;
 }
 .content {
 	background: #FFFFFF;
-	margin: 0px;
+	margin: 5px;
 	float: left;
-	width: 100%;
+	width: 99%;
 	height: 400px;
 	text-align: center;
 	 
 }
 .footer {
 	background: #777777;
-	margin: 0px;
+	margin: 5px;
 	float: left;
-	width: 100%;
+	width: 99%;
 	height: 60px;
 	text-align: center;
 }
